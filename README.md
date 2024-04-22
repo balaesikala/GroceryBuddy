@@ -34,3 +34,6 @@ Note: Run the code when the Mobile Phone is connected to the laptop with the USB
 ![Make New List](images/pic_4.png)
 ![Budget Status](images/pic_5.png)
 ![Settings](images/pic_6.png)
+
+## Video Link
+https://github.com/balaesikala/GroceryBuddy/assets/167697832/3186cd2c-9e37-4032-932a-b579f5d17bce
