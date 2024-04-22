@@ -27,3 +27,10 @@ Run the app on Android or iOS:
    - iOS: `npx react-native run-ios`
 
 Note: Run the code when the Mobile Phone is connected to the laptop with the USB Debugging is turned on.
+
+![LoginPage](images/pic_1.png)
+![Dashboard Page](images/pic_2.png)
+![Current Grocery List](images/pic_3.png)
+![Make New List](images/pic_4.png)
+![Budget Status](images/pic_5.png)
+![Settings](images/pic_6.png)
